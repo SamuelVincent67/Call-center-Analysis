@@ -3,6 +3,14 @@ This dashboard provides a comprehensive overview of a call center's performance,
 
 ![Screenshot (38)](https://github.com/user-attachments/assets/3262b075-26f4-4864-a475-375f9a327709)
 
+## Data Used
+
+- Dataset with 5,000 data points of Call center.
+
+## Tools Used 
+
+Power BI : For Building visualization and report, **Dax** Data analysis Expression for calculating metrics, **Power Query editor** for Data transformation.
+
 *Key Findings*
 
 1. Call Volume: The number of calls received fluctuates monthly with January being the busiest month.
